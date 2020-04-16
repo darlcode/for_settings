@@ -36,3 +36,10 @@
 
 ![image](https://user-images.githubusercontent.com/61573968/79428278-e810ec80-8000-11ea-8866-c6f7c7c9612d.png)
 
+**준비사항:**
+
+- Unix-like OS: macOS, Linux, BSD. Windows에서는 WSL(단, cygwin 또는 msys 또한 대체로 작동하는 것 같음)
+- Zsh가 설치 되어 있어야 함 (`zsh --version` 을 통해 확인, 없다면 [Installing ZSH]( https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH ))
+- `curl` 또는 `wget`이 설치 되어 있어야 함
+- `git`이 설치 되어 있어야 함
+
