@@ -23,9 +23,9 @@ df 명령을 사용하면 linux 시스템에 마운트된 디스크 사용량을
 ![image](https://user-images.githubusercontent.com/61573968/79691131-d0539580-8298-11ea-9278-30c1cb526056.png)<br>
 `$ du -h`<br>
 ![image](https://user-images.githubusercontent.com/61573968/79691224-33ddc300-8299-11ea-89e0-28d814656691.png)<br>
-`$ du -h <확인하고픈 디렉토리>` # 확인하고픈 특정 디렉토리 지정 가능
+`$ du -h <확인하고픈 디렉토리>` # 확인하고픈 특정 디렉토리 지정 가능<br>
 ![image](https://user-images.githubusercontent.com/61573968/79691406-3db3f600-829a-11ea-8642-ae70017ee861.png)
-`$ du -sh <확인하고픈 디렉토리>` # 확인하고픈 디렉토리의 요약
+`$ du -sh <확인하고픈 디렉토리>` # 확인하고픈 디렉토리의 요약<br>
 ![image](https://user-images.githubusercontent.com/61573968/79691444-81a6fb00-829a-11ea-9fda-c87be115a793.png)
 
 
